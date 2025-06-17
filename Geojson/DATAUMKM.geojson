@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DATAUMKM",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "1", "Nama": "dinnails.art", "Jenis Usaha": "Jasa", "Deskripsi": "dinnails.art merupakan sebuah usaha di bidang jasa perawatan kecantikan. Dimana usaha ini melayani nail art", "Kontak": "8994281398", "Latitude": "-5.531490", "Longitude": "105.238030", "Foto": "image/dinnails.art.jpg" }, "geometry": { "type": "Point", "coordinates": [ 105.23803, -5.53149 ] } },
+{ "type": "Feature", "properties": { "ID": "2", "Nama": "Rumah Makan Pindang Ika", "Jenis Usaha": "Kuliner", "Deskripsi": "Rumah makan ini merupakan rumah makan yang cukup populer di Kecamatan Teluk Pandan dengan menu utama nya adalah Pindang Kepala Simba khas Lampung", "Kontak": "82281031236", "Latitude": "-5.521266", "Longitude": "105.237100", "Foto": "image/RMPindangIka.jpg" }, "geometry": { "type": "Point", "coordinates": [ 105.2371, -5.521266 ] } }
+]
+}
